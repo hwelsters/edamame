@@ -5,7 +5,7 @@
 <h2>Edamame</h2>
   <p>A downloadable game for Windows, MacOS and Linux </p> 
   <br/>
-Edamame is a 💻 logic-gate 💻 / 🧦 block-pushing 🧦 puzzle game where you guide Millman the engineer through a series of puzzles where you connect logic gates and wires to complete every level. Put yourself into Millman's [shoes](https://en.wikipedia.org/wiki/Shoe) and solve puzzles by pushing blocks around!
+Edamame is a 💻 logic-gate 💻 / 🧦 block-pushing 🧦 puzzle game where you guide Millman the engineer through a series of puzzles where you connect logic gates and wires to complete every level. Put yourself into Millman's <a src="https://en.wikipedia.org/wiki/Shoe">shoes</a> and solve puzzles by pushing blocks around!
   
 <h2>✨Features✨</h2>
 -🥦 15 challenging levels  <br/>
