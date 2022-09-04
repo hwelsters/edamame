@@ -16,7 +16,7 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 
 ![ezgif-4-e96df2f524](https://user-images.githubusercontent.com/84760072/188329022-a052b12f-90c7-476f-bc35-29fd87854c0b.gif)
   
-itch.io was kind enough to make a video that you can watch [here](https://www.youtube.com/watch?v=6dCfxoYuqq8)
+itch.io was also kind enough to make a video that you can watch [here](https://www.youtube.com/watch?v=6dCfxoYuqq8)
 
 <h2>🎮 Playing the game</h2>
 You can play it on: https://hwelsters.itch.io/edamame
