@@ -13,6 +13,8 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 - Logic gates and Digital Design  <br/>
 <br/>
 <h2>🍚Here is Edamame in all it's glory</h2>
+![ezgif-4-e96df2f524](https://user-images.githubusercontent.com/84760072/188329022-a052b12f-90c7-476f-bc35-29fd87854c0b.gif)
+
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzc5MDQ1MjMucG5n/original/7Y4ZBE.png"/>
 </p>
