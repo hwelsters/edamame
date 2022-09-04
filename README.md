@@ -3,6 +3,7 @@
 </p>
 
 <h2>📖 Contents</h2>
+
 [🤘 Introduction](https://github.com/hwelsters/edamame#-introduction)
 [🍟 Features](https://github.com/hwelsters/edamame#features)
 [✨ Preview](https://github.com/hwelsters/edamame#here-is-edamame-in-all-its-glory)
