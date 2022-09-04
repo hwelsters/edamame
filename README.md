@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/84760072/187539218-643eefdb-2d03-4d19-a549-6b4a005c5f82.png"/>
 </p>
 
+<h2>🤘 Introduction</h2>
 <h2>Edamame</h2>
   <p>A downloadable game for Windows, MacOS and Linux </p> 
   <br/>
