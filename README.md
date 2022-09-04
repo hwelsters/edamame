@@ -2,6 +2,13 @@
   <img src="https://user-images.githubusercontent.com/84760072/187539218-643eefdb-2d03-4d19-a549-6b4a005c5f82.png"/>
 </p>
 
+<h2>📖 Contents</h2>
+[🤘 Introduction](https://github.com/hwelsters/edamame#-introduction)
+[🍟 Features](https://github.com/hwelsters/edamame#features)
+[✨ Preview](https://github.com/hwelsters/edamame#here-is-edamame-in-all-its-glory)
+[🎮 Playing the game](https://github.com/hwelsters/edamame#-playing-the-game)
+[🤔 FAQ](https://github.com/hwelsters/edamame#-faq)
+
 <h2>🤘 Introduction</h2>
   <p>A downloadable game for Windows, MacOS and Linux </p> 
   <br/>
