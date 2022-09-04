@@ -14,6 +14,7 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 <br/>
 <h2>🍚Here is Edamame in all it's glory</h2>
 
+![ezgif-4-e96df2f524](https://user-images.githubusercontent.com/84760072/188329022-a052b12f-90c7-476f-bc35-29fd87854c0b.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84760072/188329022-a052b12f-90c7-476f-bc35-29fd87854c0b.gif"/>
   <img src="https://img.itch.zone/aW1nLzc5MDQ1MjMucG5n/original/7Y4ZBE.png"/>
@@ -30,4 +31,3 @@ I used Unity Engine and C# to program the game and Aseprite for the art!
 <h3>This is a Github repo, where's the source code?</h3>
 I put the source code in a private repository since I'm actually trying to make money from the game but I am willing to show you the source code if you request it.
 
-![ezgif-4-e96df2f524](https://user-images.githubusercontent.com/84760072/188329022-a052b12f-90c7-476f-bc35-29fd87854c0b.gif)
