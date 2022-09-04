@@ -7,10 +7,10 @@
   <br/>
 Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> / <a href="https://en.wikipedia.org/wiki/Sokoban">block-pushing puzzle game</a> where you guide Millman the engineer through a series of puzzles where you connect logic gates and wires to complete every level. Put yourself into Millman's <a href="https://en.wikipedia.org/wiki/Shoe">shoes</a> and solve <a href="https://en.wikipedia.org/wiki/Puzzle">puzzles</a> by pushing blocks around!
   
-<h2>✨Features</h2>
--🥦 15 challenging levels  <br/>
--🗣️ Cute and quirky NPC dialog  <br/>
--🍟 Logic gates and Digital Design  <br/>
+<h2>🍟Features</h2>
+- 15 challenging levels  <br/>
+- Cute and quirky NPC dialog  <br/>
+- Logic gates and Digital Design  <br/>
 <br/>
 🍚Here is Edamame in all it's glory
 <p align="center">
