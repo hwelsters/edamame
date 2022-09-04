@@ -4,11 +4,16 @@
 
 <h2>📖 Contents</h2>
 
-[• 🤘 Introduction  ](https://github.com/hwelsters/edamame#-introduction)
-[• 🍟 Features  ](https://github.com/hwelsters/edamame#features)
-[• ✨ Preview  ](https://github.com/hwelsters/edamame#here-is-edamame-in-all-its-glory)
-[• 🎮 Playing the game  ](https://github.com/hwelsters/edamame#-playing-the-game)
-[• 🤔 FAQ  ](https://github.com/hwelsters/edamame#-faq)
+• [🤘 Introduction  ](https://github.com/hwelsters/edamame#-introduction)
+• [🍟 Features  ](https://github.com/hwelsters/edamame#features)
+• [✨ Preview  ](https://github.com/hwelsters/edamame#here-is-edamame-in-all-its-glory)
+• [🎮 Playing the game  ](https://github.com/hwelsters/edamame#-playing-the-game)
+• [🤔 FAQ  ](https://github.com/hwelsters/edamame#-faq)
+
+</br>
+</br>
+</br>
+</br>
 
 <h2>🤘 Introduction</h2>
   <p>A downloadable game for Windows, MacOS and Linux </p> 
