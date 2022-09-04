@@ -12,7 +12,7 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 - Cute and quirky NPC dialog  <br/>
 - Logic gates and Digital Design  <br/>
 <br/>
-🍚Here is Edamame in all it's glory
+<h2>🍚Here is Edamame in all it's glory</h2>
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzc5MDQ1MjMucG5n/original/7Y4ZBE.png"/>
 </p>
