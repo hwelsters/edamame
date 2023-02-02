@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84760072/187539218-643eefdb-2d03-4d19-a549-6b4a005c5f82.png"/>
 </p>
-<h1 align="center"> Edamame </h1>
 <h3 align="center"> A quirky and cute puzzle game! </h3>
 <h5 align="center"> A logic-gate puzzle time with various implementations of depth-first search. </h5>
 
@@ -20,8 +19,6 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 <br/>
 
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
-
-  
   
 <h2>✨Here is edamame in all its glory</h2>
 
