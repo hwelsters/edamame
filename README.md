@@ -7,6 +7,7 @@
   <p>A downloadable game for Windows, MacOS and Linux </p> 
   <br/>
 Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> / <a href="https://en.wikipedia.org/wiki/Sokoban">block-pushing puzzle game</a> where you guide Millman the engineer through a series of puzzles where you connect logic gates and wires to complete every level. Put yourself into Millman's <a href="https://en.wikipedia.org/wiki/Shoe">shoes</a> and solve <a href="https://en.wikipedia.org/wiki/Puzzle">puzzles</a> by pushing blocks around!
+<br/>
   
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
     
@@ -15,6 +16,7 @@ Edamame is a <a href="https://en.wikipedia.org/wiki/Logic_gate">logic-gate</a> /
 - Cute and quirky NPC dialog  <br/>
 - Logic gates and Digital Design  <br/>
 <br/>
+
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
 
   
@@ -30,8 +32,9 @@ itch.io was also kind enough to make a video that you can watch [here](https://w
 
 <h2>🎮 Playing the game</h2>
 You can play it on: https://hwelsters.itch.io/edamame
-  
-  
+
+<br/>
+
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
 
 <h2>🤔 FAQ</h2>
