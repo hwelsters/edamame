@@ -40,5 +40,6 @@ I used Unity Engine and C# to program the game and Aseprite for the art!
 <h3>This is a Github repo, where's the source code?</h3>
 I put the source code in a private repository since I'm actually trying to make money from the game but I am willing to show you the source code if you request it.
 
-[line]: https://user-images.githubusercontent.com/84760072/220313730-c9733037-4441-4dfa-975a-c7b38cfb0cb8.png
+[line]: https://user-images.githubusercontent.com/84760072/220313945-e3d35397-902f-45fe-80b9-d36a4b4cca4b.png
+![image](https://user-images.githubusercontent.com/84760072/220313945-e3d35397-902f-45fe-80b9-d36a4b4cca4b.png)
 
