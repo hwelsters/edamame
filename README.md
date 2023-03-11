@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/84760072/187539218-643eefdb-2d03-4d19-a549-6b4a005c5f82.png"/>
 </p>
 <h3 align="center"> A quirky and cute puzzle game! </h3>
-<h5 align="center"> A logic-gate puzzle time with various implementations of depth-first search. </h5>
+<h5 align="center"> A logic-gate puzzle game with various implementations of depth-first search. </h5>
 
 <h2>Introduction</h2>
   <p>A downloadable game for Windows, MacOS and Linux </p> 
